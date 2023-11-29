@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/react.svg" alt="React" width="16" height="16"> <img src="https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/kotlin.svg" alt="React" width="16" height="16"> 
+<img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;&nbsp;
 
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
