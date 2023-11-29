@@ -5,6 +5,7 @@
 <img src="../main/icons/python.svg" alt="Python" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/pytorch.svg" alt="Pytorch" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/tensorflow.svg" alt="Tensorflow" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/node_js.svg" alt="Node.js" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;&nbsp;
 
 <!--
