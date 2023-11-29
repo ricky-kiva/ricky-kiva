@@ -1,4 +1,5 @@
 ### Hi there 👋
+Front-end: ![React]([URL_of_the_SVG](https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/react.svg))
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
