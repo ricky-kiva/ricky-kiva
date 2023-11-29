@@ -1,5 +1,6 @@
 ### Hi there 👋
-Front-end: ![React]([URL_of_the_SVG](https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/react.svg))
+<img src="https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/react.svg" alt="React" width="16" height="16"> <img src="https://github.com/ricky-kiva/ricky-kiva/blob/main/icons/kotlin.svg" alt="React" width="16" height="16"> 
+
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
