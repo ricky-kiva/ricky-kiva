@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/android.svg" alt="Kotlin" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;&nbsp;
 
 <!--
