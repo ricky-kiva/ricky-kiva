@@ -9,6 +9,7 @@
 <img src="../main/icons/node_js.svg" alt="Node.js" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/html.svg" alt="HTML" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/css.svg" alt="CSS" width="16" height="16">&nbsp;&nbsp;
 
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
