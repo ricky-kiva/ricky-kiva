@@ -9,6 +9,7 @@
 <img src="../main/icons/node_js.svg" alt="Node.js" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/html.svg" alt="HTML" width="16" height="16">&nbsp;&nbsp;
+<img src="../main/icons/javascript.svg" alt="JavaScript" width="16" height="16">&nbsp;&nbsp;
 <img src="../main/icons/css.svg" alt="CSS" width="16" height="16">&nbsp;&nbsp;
 
 <!--
