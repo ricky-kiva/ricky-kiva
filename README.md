@@ -18,12 +18,12 @@
 <img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16">&nbsp;
 <img src="../main/icons/arm.svg" alt="ARM" width="16" height="16">&nbsp;
 <img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16">&nbsp;
-<img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16">&nbsp;
 <img src="../main/icons/sqlite.svg" alt="SQLite" width="16" height="16">&nbsp;
 <img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
 <img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
 <img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
+<img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
 
 <!--
