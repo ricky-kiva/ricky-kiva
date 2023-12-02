@@ -24,6 +24,7 @@
 <img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
 <img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
 <img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
+<img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
 
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
