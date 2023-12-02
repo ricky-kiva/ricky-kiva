@@ -3,6 +3,7 @@
 <img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16">&nbsp;
 <img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16">&nbsp;
 <img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
+<img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
 <img src="../main/icons/java.svg" alt="Java" width="16" height="16">&nbsp;
 <img src="../main/icons/python.svg" alt="Python" width="16" height="16">&nbsp;
 <img src="../main/icons/tensorflow.svg" alt="Tensorflow" width="16" height="16">&nbsp;
