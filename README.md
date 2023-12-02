@@ -8,6 +8,7 @@
 <img src="../main/icons/pytorch.svg" alt="Pytorch" width="16" height="16">&nbsp;
 <img src="../main/icons/node_js.svg" alt="Node.js" width="16" height="16">&nbsp;
 <img src="../main/icons/express_js.svg" alt="Express.js" width="16" height="16">&nbsp;
+<img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;
 <img src="../main/icons/html.svg" alt="HTML" width="16" height="16">&nbsp;
 <img src="../main/icons/javascript.svg" alt="JavaScript" width="16" height="16">&nbsp;
