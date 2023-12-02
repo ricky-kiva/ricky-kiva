@@ -18,6 +18,7 @@
 <img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16">&nbsp;
 <img src="../main/icons/arm.svg" alt="ARM" width="16" height="16">&nbsp;
 <img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16">&nbsp;
+<img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 
 <!--
 **ricky-kiva/ricky-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
