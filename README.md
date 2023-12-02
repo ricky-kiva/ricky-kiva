@@ -14,6 +14,7 @@
 <img src="../main/icons/html.svg" alt="HTML" width="16" height="16">&nbsp;
 <img src="../main/icons/javascript.svg" alt="JavaScript" width="16" height="16">&nbsp;
 <img src="../main/icons/css.svg" alt="CSS" width="16" height="16">&nbsp;
+<img src="../main/icons/mongo_db.svg" alt="MongoDB" width="16" height="16">&nbsp;
 <img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16">&nbsp;
 <img src="../main/icons/arm.svg" alt="ARM" width="16" height="16">&nbsp;
 <img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16">&nbsp;
