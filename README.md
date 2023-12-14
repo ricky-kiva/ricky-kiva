@@ -21,6 +21,7 @@
 <img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16">&nbsp;
 <img src="../main/icons/go.svg" alt="Go" width="16" height="16">&nbsp;
 <img src="../main/icons/gin_gonic.svg" alt="Gin Gonic" width="16" height="16">&nbsp;
+<img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16">&nbsp;
 <img src="../main/icons/sqlite.svg" alt="SQLite" width="16" height="16">&nbsp;
 <img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
 <img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
