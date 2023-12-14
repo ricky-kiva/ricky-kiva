@@ -23,6 +23,7 @@
 <img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
 <img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
 <img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16">&nbsp;
+<img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16">&nbsp;
 <img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
 <img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
