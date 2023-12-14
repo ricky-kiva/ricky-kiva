@@ -26,6 +26,7 @@
 <img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16">&nbsp;
 <img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
 <img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16">&nbsp;
+<img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
 <img src="../main/icons/git.svg" alt="Git" width="16" height="16">&nbsp;
 <img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
