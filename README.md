@@ -18,6 +18,8 @@
 <img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16">&nbsp;
 <img src="../main/icons/arm.svg" alt="ARM" width="16" height="16">&nbsp;
 <img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16">&nbsp;
+<img src="../main/icons/postgresql.svg" alt="PostgreSQL" width="16" height="16">&nbsp;
+<img src="../main/icons/git.svg" alt="Git" width="16" height="16">&nbsp;
 <img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16">&nbsp;
 <img src="../main/icons/go.svg" alt="Go" width="16" height="16">&nbsp;
 <img src="../main/icons/gin_gonic.svg" alt="Gin Gonic" width="16" height="16">&nbsp;
@@ -30,7 +32,6 @@
 <img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16">&nbsp;
 <img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16">&nbsp;
 <img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
-<img src="../main/icons/git.svg" alt="Git" width="16" height="16">&nbsp;
 <img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
 
