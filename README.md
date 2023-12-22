@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="../main/icons/android.svg" alt="Kotlin" width="16" height="16">&nbsp;
+<a href="https://www.android.com/"><img src="../main/icons/android.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16">&nbsp;
 <img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16">&nbsp;
 <img src="../main/icons/java.svg" alt="Java" width="16" height="16">&nbsp;
