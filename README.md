@@ -4,7 +4,7 @@
 <a href="https://kotlinlang.org/"><img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <a href="https://www.java.com/en/"><img src="../main/icons/java.svg" alt="Java" width="16" height="16"></a>&nbsp;
 <a href="https://www.python.org/"><img src="../main/icons/python.svg" alt="Python" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/tensorflow.svg" alt="Tensorflow" width="16" height="16">&nbsp;
+<a href="https://www.tensorflow.org/"><img src="../main/icons/tensorflow.svg" alt="Tensorflow" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/pytorch.svg" alt="Pytorch" width="16" height="16">&nbsp;
 <img src="../main/icons/keras.svg" alt="Keras" width="16" height="16">&nbsp;
 <img src="../main/icons/open_cv.svg" alt="OpenCV" width="16" height="16">&nbsp;
