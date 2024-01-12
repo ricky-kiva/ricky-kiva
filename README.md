@@ -7,7 +7,7 @@
 <a href="https://www.tensorflow.org/"><img src="../main/icons/tensorflow.svg" alt="Tensorflow" width="16" height="16"></a>&nbsp;
 <a href="https://pytorch.org/"><img src="../main/icons/pytorch.svg" alt="Pytorch" width="16" height="16"></a>&nbsp;
 <a href="https://keras.io/"><img src="../main/icons/keras.svg" alt="Keras" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/open_cv.svg" alt="OpenCV" width="16" height="16">&nbsp;
+<a href="https://opencv.org/"><img src="../main/icons/open_cv.svg" alt="OpenCV" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/node_js.svg" alt="Node.js" width="16" height="16">&nbsp;
 <img src="../main/icons/express_js.svg" alt="Express.js" width="16" height="16">&nbsp;
 <img src="../main/icons/react.svg" alt="React" width="16" height="16">&nbsp;
