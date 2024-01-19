@@ -12,7 +12,7 @@
 <a href="https://expressjs.com/"><img src="../main/icons/express_js.svg" alt="Express.js" width="16" height="16"></a>&nbsp;
 <a href="https://react.dev/"><img src="../main/icons/react.svg" alt="React" width="16" height="16"></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="../main/icons/mongo_db.svg" alt="MongoDB" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/html.svg" alt="HTML" width="16" height="16">&nbsp;
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="../main/icons/html.svg" alt="HTML" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/javascript.svg" alt="JavaScript" width="16" height="16">&nbsp;
 <img src="../main/icons/css.svg" alt="CSS" width="16" height="16">&nbsp;
 <img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16">&nbsp;
