@@ -18,7 +18,7 @@
 <a href="https://www.arduino.cc/"><img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16"></a>&nbsp;
 <a href="https://os.mbed.com/"><img src="../main/icons/arm.svg" alt="ARM" width="16" height="16"></a>&nbsp;
 <a href="https://isocpp.org/about"><img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/postgresql.svg" alt="PostgreSQL" width="16" height="16">&nbsp;
+<a href="https://www.postgresql.org/"><img src="../main/icons/postgresql.svg" alt="PostgreSQL" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/git.svg" alt="Git" width="16" height="16">&nbsp;
 <img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16">&nbsp;
 <img src="../main/icons/go.svg" alt="Go" width="16" height="16">&nbsp;
