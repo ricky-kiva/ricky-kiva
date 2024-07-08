@@ -21,7 +21,7 @@
 <a href="https://www.postgresql.org/"><img src="../main/icons/postgresql.svg" alt="PostgreSQL" width="16" height="16"></a>&nbsp;
 <a href="https://git-scm.com/"><img src="../main/icons/git.svg" alt="Git" width="16" height="16"></a>&nbsp;
 <a href="https://circleci.com/"><img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/go.svg" alt="Go" width="16" height="16">&nbsp;
+<a href="https://go.dev/"><img src="../main/icons/go.svg" alt="Go" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/gin_gonic.svg" alt="Gin Gonic" width="16" height="16">&nbsp;
 <img src="../main/icons/fiber.svg" alt="Fiber" width="16" height="16">&nbsp;
 <img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16">&nbsp;
