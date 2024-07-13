@@ -26,7 +26,7 @@
 <a href="https://gofiber.io/"><img src="../main/icons/fiber.svg" alt="Fiber" width="16" height="16"></a>&nbsp;
 <a href="https://gorm.io/"><img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16"></a>&nbsp;
 <a href="https://www.sqlite.org/"><img src="../main/icons/sqlite.svg" alt="SQLite" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/koin.svg" alt="Koin" width="16" height="16">&nbsp;
+<a href="https://insert-koin.io/"><img src="../main/icons/koin.svg" alt="Koin" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16">&nbsp;
 <img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16">&nbsp;
 <img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16">&nbsp;
