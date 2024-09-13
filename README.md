@@ -31,7 +31,7 @@
 <a href="https://scikit-learn.org/"><img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16"></a>&nbsp;
 <a href="https://jupyter.org/"><img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16"></a>&nbsp;
 <a href="https://hapi.dev/"><img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16">&nbsp;
+<a href="https://d3js.org/"><img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16">&nbsp;
 <img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16">&nbsp;
 <img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
