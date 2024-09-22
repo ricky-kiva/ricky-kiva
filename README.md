@@ -52,5 +52,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - JWT
-- Amazon S3
+- Redis
+- RabbitMQ
+- AWSs
 -->
