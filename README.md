@@ -1,5 +1,9 @@
 ### Hi there 👋
+<img src="../main/icons/alphabet/A.svg" alt="A Index" width="16" height="16">&nbsp;
 <a href="https://www.android.com/"><img src="../main/icons/android.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
+<a href="https://www.arduino.cc/"><img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16"></a>&nbsp;
+<a href="https://os.mbed.com/"><img src="../main/icons/arm.svg" alt="ARM" width="16" height="16"></a>&nbsp;
+<a href="https://aws.amazon.com/"><img src="../main/icons/aws.svg" alt="AWS" width="16" height="16"></a>&nbsp;
 <a href="https://developer.android.com/jetpack/compose"><img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16"></a>&nbsp;
 <a href="https://kotlinlang.org/"><img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <a href="https://www.java.com/en/"><img src="../main/icons/java.svg" alt="Java" width="16" height="16"></a>&nbsp;
@@ -15,8 +19,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="../main/icons/html.svg" alt="HTML" width="16" height="16"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="../main/icons/javascript.svg" alt="JavaScript" width="16" height="16"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="../main/icons/css.svg" alt="CSS" width="16" height="16"></a>&nbsp;
-<a href="https://www.arduino.cc/"><img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16"></a>&nbsp;
-<a href="https://os.mbed.com/"><img src="../main/icons/arm.svg" alt="ARM" width="16" height="16"></a>&nbsp;
 <a href="https://isocpp.org/about"><img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16"></a>&nbsp;
 <a href="https://www.postgresql.org/"><img src="../main/icons/postgresql.svg" alt="PostgreSQL" width="16" height="16"></a>&nbsp;
 <a href="https://git-scm.com/"><img src="../main/icons/git.svg" alt="Git" width="16" height="16"></a>&nbsp;
@@ -35,7 +37,6 @@
 <a href="https://joi.dev/"><img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 <a href="https://wordpress.com/"><img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
-<img src="../main/icons/aws.svg" alt="AWS" width="16" height="16">&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
 
 <!--
