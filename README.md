@@ -9,6 +9,8 @@
 <a href="https://isocpp.org/about"><img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16"></a>&nbsp;
 <a href="https://circleci.com/"><img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="../main/icons/css.svg" alt="CSS" width="16" height="16"></a>&nbsp;
+<img src="../main/icons/alphabet/Dandelion.svg" alt="D Index" width="16" height="16">&nbsp;
+<a href="https://d3js.org/"><img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16"></a>&nbsp;
 <a href="https://developer.android.com/jetpack/compose"><img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16"></a>&nbsp;
 <a href="https://kotlinlang.org/"><img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <a href="https://www.java.com/en/"><img src="../main/icons/java.svg" alt="Java" width="16" height="16"></a>&nbsp;
@@ -35,7 +37,6 @@
 <a href="https://scikit-learn.org/"><img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16"></a>&nbsp;
 <a href="https://jupyter.org/"><img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16"></a>&nbsp;
 <a href="https://hapi.dev/"><img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
-<a href="https://d3js.org/"><img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16"></a>&nbsp;
 <a href="https://joi.dev/"><img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 <a href="https://wordpress.com/"><img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
