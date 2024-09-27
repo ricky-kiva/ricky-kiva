@@ -1,10 +1,10 @@
 ### Hi there 👋
-<img src="../main/icons/alphabet/A.svg" alt="A Index" width="16" height="16">&nbsp;
+<img src="../main/icons/alphabet/Amethyst.svg" alt="A Index" width="16" height="16">&nbsp;
 <a href="https://www.android.com/"><img src="../main/icons/android.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <a href="https://www.arduino.cc/"><img src="../main/icons/arduino.svg" alt="Arduino" width="16" height="16"></a>&nbsp;
 <a href="https://os.mbed.com/"><img src="../main/icons/arm.svg" alt="ARM" width="16" height="16"></a>&nbsp;
 <a href="https://aws.amazon.com/"><img src="../main/icons/aws.svg" alt="AWS" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/alphabet/B.svg" alt="B Index" width="16" height="16">&nbsp;
+<img src="../main/icons/alphabet/Blue.svg" alt="B Index" width="16" height="16">&nbsp;
 <a href="https://developer.android.com/jetpack/compose"><img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16"></a>&nbsp;
 <a href="https://kotlinlang.org/"><img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
 <a href="https://www.java.com/en/"><img src="../main/icons/java.svg" alt="Java" width="16" height="16"></a>&nbsp;
