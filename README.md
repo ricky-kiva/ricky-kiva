@@ -39,7 +39,7 @@
 <a href="https://hapi.dev/"><img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 <a href="https://joi.dev/"><img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 <a href="https://wordpress.com/"><img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16"></a>&nbsp;
-<img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16">&nbsp;
+<a href="https://elementor.com/"><img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16"></a>&nbsp;
 <img src="../main/icons/figma.svg" alt="Figma" width="16" height="16">&nbsp;
 
 <!--
