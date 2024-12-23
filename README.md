@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 - JWT
 - Redis
 - RabbitMQ
+- NGINX
 - AWSs
 -- RDS
 -->
