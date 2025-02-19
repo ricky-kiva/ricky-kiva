@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - Redis
 - RabbitMQ
 - NGINX
+- TypeScript
 - AWSs
 -- RDS
 -->
