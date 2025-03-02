@@ -63,4 +63,5 @@ Here are some ideas to get you started:
 - AWSs
 -- RDS
 -- VPC
+-- EC2
 -->
