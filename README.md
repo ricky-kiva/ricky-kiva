@@ -4,7 +4,6 @@
 <a href="https://os.mbed.com/"><img src="../main/icons/arm.svg" alt="ARM" width="16" height="16"></a>&nbsp;
 <a href="https://aws.amazon.com/"><img src="../main/icons/aws.svg" alt="AWS" width="16" height="16"></a>&nbsp;
 <a href="https://isocpp.org/about"><img src="../main/icons/c_plus_plus.svg" alt="C++" width="16" height="16"></a>&nbsp;
-<a href="https://circleci.com/"><img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="../main/icons/css.svg" alt="CSS" width="16" height="16"></a>&nbsp;
 <a href="https://developer.android.com/jetpack/compose"><img src="../main/icons/jetpack_compose.svg" alt="Jetpack Compose" width="16" height="16"></a>&nbsp;
 <a href="https://kotlinlang.org/"><img src="../main/icons/kotlin.svg" alt="Kotlin" width="16" height="16"></a>&nbsp;
@@ -61,4 +60,5 @@ Here are some ideas to get you started:
 -- EC2
 
 <a href="https://d3js.org/"><img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16"></a>&nbsp;
+<a href="https://circleci.com/"><img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16"></a>&nbsp;
 -->
