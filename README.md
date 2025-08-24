@@ -23,7 +23,6 @@
 <a href="https://go.dev/"><img src="../main/icons/go.svg" alt="Go" width="16" height="16"></a>&nbsp;
 <a href="https://gin-gonic.com/"><img src="../main/icons/gin_gonic.svg" alt="Gin Gonic" width="16" height="16"></a>&nbsp;
 <a href="https://gofiber.io/"><img src="../main/icons/fiber.svg" alt="Fiber" width="16" height="16"></a>&nbsp;
-<a href="https://gorm.io/"><img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16"></a>&nbsp;
 <a href="https://www.sqlite.org/"><img src="../main/icons/sqlite.svg" alt="SQLite" width="16" height="16"></a>&nbsp;
 <a href="https://insert-koin.io/"><img src="../main/icons/koin.svg" alt="Koin" width="16" height="16"></a>&nbsp;
 <a href="https://reactivex.io/"><img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16"></a>&nbsp;
@@ -61,4 +60,5 @@ Here are some ideas to get you started:
 <a href="https://d3js.org/"><img src="../main/icons/d3_js.svg" alt="D3.js" width="16" height="16"></a>&nbsp;
 <a href="https://circleci.com/"><img src="../main/icons/circle_ci.svg" alt="CircleCI" width="16" height="16"></a>&nbsp;
 <a href="https://opencv.org/"><img src="../main/icons/open_cv.svg" alt="OpenCV" width="16" height="16"></a>&nbsp;
+<a href="https://gorm.io/"><img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16"></a>&nbsp;
 -->
