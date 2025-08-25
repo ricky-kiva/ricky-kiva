@@ -23,7 +23,6 @@
 <a href="https://go.dev/"><img src="../main/icons/go.svg" alt="Go" width="16" height="16"></a>&nbsp;
 <a href="https://gin-gonic.com/"><img src="../main/icons/gin_gonic.svg" alt="Gin Gonic" width="16" height="16"></a>&nbsp;
 <a href="https://gofiber.io/"><img src="../main/icons/fiber.svg" alt="Fiber" width="16" height="16"></a>&nbsp;
-
 <a href="https://insert-koin.io/"><img src="../main/icons/koin.svg" alt="Koin" width="16" height="16"></a>&nbsp;
 <a href="https://reactivex.io/"><img src="../main/icons/rx_java.svg" alt="RXJava" width="16" height="16"></a>&nbsp;
 <a href="https://scikit-learn.org/"><img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16"></a>&nbsp;
