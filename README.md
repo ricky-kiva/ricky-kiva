@@ -28,7 +28,6 @@
 <a href="https://scikit-learn.org/"><img src="../main/icons/scikit_learn.svg" alt="Scikit Learn" width="16" height="16"></a>&nbsp;
 <a href="https://jupyter.org/"><img src="../main/icons/jupyter.svg" alt="Jupyter" width="16" height="16"></a>&nbsp;
 <a href="https://hapi.dev/"><img src="../main/icons/hapi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
-<a href="https://joi.dev/"><img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 <a href="https://wordpress.com/"><img src="../main/icons/wordpress.svg" alt="Wordpress" width="16" height="16"></a>&nbsp;
 <a href="https://elementor.com/"><img src="../main/icons/elementor.svg" alt="Elementor" width="16" height="16"></a>&nbsp;
 <a href="https://www.figma.com/"><img src="../main/icons/figma.svg" alt="Figma" width="16" height="16"></a>&nbsp;
@@ -61,4 +60,5 @@ Here are some ideas to get you started:
 <a href="https://opencv.org/"><img src="../main/icons/open_cv.svg" alt="OpenCV" width="16" height="16"></a>&nbsp;
 <a href="https://gorm.io/"><img src="../main/icons/gorm.svg" alt="GORM" width="16" height="16"></a>&nbsp;
 <a href="https://www.sqlite.org/"><img src="../main/icons/sqlite.svg" alt="SQLite" width="16" height="16"></a>&nbsp;
+<a href="https://joi.dev/"><img src="../main/icons/joi.svg" alt="Hapi" width="16" height="16"></a>&nbsp;
 -->
